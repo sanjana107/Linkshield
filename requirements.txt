@@ -1,0 +1,13 @@
+# Database Connection
+mysql-connector-python
+
+# Data Manipulation & Machine Learning
+pandas
+scikit-learn
+
+# Web Dashboard & Visualization
+streamlit
+plotly
+
+# Presentation Generation
+python
